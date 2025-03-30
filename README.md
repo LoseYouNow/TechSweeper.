@@ -1,0 +1,2 @@
+# TechSweeperPublic
+实用的程序卸载工具，比GeekUninstaller更实用
