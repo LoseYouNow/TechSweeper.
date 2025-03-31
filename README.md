@@ -9,6 +9,8 @@ TechSweeper 采用.Net/WinUI3 进行开发，界面布局现代化，完美适�
 三.卓越的性能表现
 TechSweeper 深度优化代码性能，界面变化流畅，动效自然，且能够完美过滤软件痕迹
 
+前置组件 .net 8.0 https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0
+
 V1.2.1 版本升级亮点
 
 -改进了程序元素显示
